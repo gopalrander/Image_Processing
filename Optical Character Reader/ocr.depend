@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1319862640 source:/home/karan/Programming/ocr/main.cpp
+	<iostream>
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"process.h"
+	<fstream>
+	"tesseract/baseapi.h"
+
+1319854598 /home/karan/Programming/ocr/process.h
+	<iostream>
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"BlobResult.h"
+
+1319857518 source:/home/karan/Programming/ocr/process.cpp
+	"process.h"
+	"BlobResult.h"
+
